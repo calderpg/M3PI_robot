@@ -1,0 +1,7 @@
+M3Pi/bin
+M3Pi/build
+M3Pi/msg_gen
+M3Pi/srv_gen
+
+*.pyc
+*~
